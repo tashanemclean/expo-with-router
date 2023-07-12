@@ -11,6 +11,8 @@
     "expo-linking": "~4.0.1",
     "expo-router": "^1.5.3",
     "expo-splash-screen": "~0.18.2",
+    "expo-asset": "~8.9.1",
+    "expo-dev-client": "~2.2.1",
     "expo-status-bar": "~1.4.4",
     "native-base": "^3.4.28",
     "nativewind": "^2.0.11",
